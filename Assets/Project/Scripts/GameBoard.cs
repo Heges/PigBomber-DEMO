@@ -43,7 +43,8 @@ public class GameBoard : MonoBehaviour
         var obj = Instantiate(_player);
         obj.transform.position = _grid.GetRandomNode().position;
         obj.OnDie += ReGenerateLevel;
-        obj._joystick = _joystick;
+        if(Application.platform == RuntimePlatform.Android)
+            obj._joystick = _joystick;
         obj.Subscribe(_bombButton);
         destroeable.Add(obj);
 
