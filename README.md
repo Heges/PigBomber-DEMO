@@ -2,8 +2,8 @@
 Тестовое задание для 7tam pig bomber <br>
 требование чтобы можно было управлять со смартфона без лагов <br>
 
-ассеты предоставлены 7tam для выполнения задания
-использована ассет free Joystick pack from https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631 
+ассеты предоставлены 7tam для выполнения задания <br>
+использована ассет free Joystick pack from https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631 <br>
 
 2 уровня сложности на GameBoard можно выбрать уровень. <br>
 https://drive.google.com/file/d/1eSLmMumTFbpwcodFmU-bqewvfmc-PN8k/view?usp=sharing apc <br>
