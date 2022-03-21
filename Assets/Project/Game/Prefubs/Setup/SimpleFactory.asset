@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6f75c799e910f4789d69639ee96158, type: 3}
+  m_Name: SimpleFactory
+  m_EditorClassIdentifier: 
+  farmer: {fileID: 3630961513427310273, guid: 4d8b10a3285e1e24e99b414a2b026ee0, type: 3}
+  dog: {fileID: 5177231329961839868, guid: 6752b83d6ac2dc74b95ab29d7d4d975b, type: 3}
+  player: {fileID: 4870915650853211141, guid: 7a09d55670117e64d93a3e712b0b40b2, type: 3}
