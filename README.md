@@ -1,4 +1,4 @@
-# Test project for 7tam PigBomber
+# PigBomber DEMO
 Тестовое задание для 7tam pig bomber <br>
 Управление со смартфона и простое поведение врагов<br>
 
